@@ -4,7 +4,7 @@ import { SHOP } from '@/constants/content';
 
 const BADGES = [
   '✔ Licensed Pharmacy',
-  '✔ 10+ Years',
+  '✔ 21+ Years',
   '✔ Home Delivery',
   '✔ Open Late',
 ];

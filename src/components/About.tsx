@@ -1,8 +1,8 @@
 import Image from 'next/image';
 
 const STATS = [
-  { value: '10+',     label: 'Years of Service' },
-  { value: '10,000+', label: 'Happy Customers' },
+  { value: '21+',     label: 'Years of Service' },
+  { value: '1Lac+', label: 'Happy Customers' },
   { value: '6',       label: 'Services Offered' },
   { value: '365',     label: 'Days Open' },
 ];

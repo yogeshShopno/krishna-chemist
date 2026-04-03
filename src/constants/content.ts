@@ -3,9 +3,9 @@ export const SHOP = {
   shortName: 'Krishna Chemist',
   tagline:   'Your Trusted Health Partner, Around the Clock Serving Kadi families for over a decade with genuine medicines, expert advice & fast home delivery. Located under Dr. Navin Patel Hospital.',
   address:   'Under Dr. Navin Patel Hospital, Bus Station Rd, Opp. Patel Bhuvan, Sardar Bagh, Kadi, Gujarat 384440',
-  phone:     '+91 95588 22345',
-  phoneHref: 'tel:+919558822345',
-  whatsapp:  'https://wa.me/919558822345',
+  phone:     '+91 90819 77749',
+  phoneHref: 'tel:+919081977749',
+  whatsapp:  'https://wa.me/919081977749',
   timings:   'Every Day — 7:00 AM to 11:30 PM',
 };
 
