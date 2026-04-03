@@ -5,7 +5,7 @@ const iconMap: Record<string, LucideIcon> = { ShieldCheck, Truck, UserCheck, Clo
 
 export default function WhyChooseUs() {
   return (
-    <section id="why-us" className="py-16 md:py-24 bg-brand-bgAlt">
+    <section id="why-us" className="py-10 md:py-12 bg-brand-bgAlt">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 className="font-display text-3xl md:text-4xl font-bold text-brand-textDark text-center mb-3">
           Why Choose Us

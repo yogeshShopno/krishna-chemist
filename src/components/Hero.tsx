@@ -13,7 +13,7 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="bg-brand-primaryBg min-h-screen flex items-center py-16 md:py-24"
+      className="bg-brand-primaryBg  flex items-center py-10 md:py-12"
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
