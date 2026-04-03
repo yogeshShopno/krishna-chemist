@@ -14,12 +14,12 @@ export default function Navbar() {
         {/* Logo + Name */}
         <a href="#home" className="flex items-center gap-3 shrink-0 group">
           <div className="relative w-12 h-12 rounded-full overflow-hidden shadow-[0_0_15px_rgba(0,0,0,0.1)] group-hover:scale-105 group-hover:shadow-[0_0_20px_rgba(59,130,246,0.5)] transition-all duration-300 ring-2 ring-transparent group-hover:ring-blue-100">
-            <Image src="/logo.jpeg" alt="Pharma 24/7 Logo" width={48} height={48} className="rounded-full object-cover w-full h-full" priority />
+            <Image src="/logo.jpeg" alt="Krishna chemist Logo" width={48} height={48} className="rounded-full object-cover w-full h-full" priority />
           </div>
           <span className="font-display font-extrabold text-brand-secondary text-xl leading-tight hidden sm:block group-hover:text-brand-primary transition-colors duration-300 tracking-tight">
-            Pharma 24/7
-            <span className="block text-[0.7rem] font-body font-bold text-brand-textMuted tracking-[0.15em] uppercase mt-0.5 group-hover:text-brand-primaryLight transition-colors duration-300">
               Krishna Chemist
+            <span className="block text-[0.7rem] font-body font-bold text-brand-textMuted tracking-[0.15em] uppercase mt-0.5 group-hover:text-brand-primaryLight transition-colors duration-300">
+           &  retail store
             </span>
           </span>
         </a>

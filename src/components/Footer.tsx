@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import { NAV_LINKS, SHOP } from '@/constants/content';
+import { AlarmCheck, Phone } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -11,14 +12,14 @@ export default function Footer() {
             <div className="flex items-center gap-3 mb-4">
               <div className=" h-12 w-12">
 
-                <Image src="/logo.jpeg" alt="Pharma 24/7 Logo" width={100} height={100} className="rounded-full object-cover w-full h-full " priority />
+                <Image src="/logo.jpeg" alt="krishna chemist Logo" width={100} height={100} className="rounded-full object-cover w-full h-full " priority />
 
               </div>
 
               <span className="font-display font-bold text-lg leading-tight">
-                Pharma 24/7
+                Krishna Chemist
                 <span className="block text-xs font-body font-normal text-white/70">
-                  Krishna Chemist
+                  & retail store
                 </span>
               </span>
             </div>
@@ -48,11 +49,11 @@ export default function Footer() {
             <ul className="space-y-2 text-white/80 text-sm">
               <li>
                 <a href={SHOP.phoneHref} className="hover:text-white transition-colors">
-                  📞 {SHOP.phone}
+                  {SHOP.phone}
                 </a>
               </li>
               <li className="leading-relaxed">{SHOP.address}</li>
-              <li>⏰ {SHOP.timings}</li>
+              <li>  {SHOP.timings}</li>
             </ul>
           </div>
         </div>
@@ -61,7 +62,7 @@ export default function Footer() {
       {/* Bottom bar */}
       <div className="border-t border-white/20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-center text-white/60 text-xs">
-          © 2024 Pharma 24/7 – Krishna Chemist. All rights reserved.
+          Powered by Krishna Chemist © 2026. All rights reserved.
         </div>
       </div>
     </footer>
