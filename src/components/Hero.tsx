@@ -20,7 +20,7 @@ export default function Hero() {
           {/* Text */}
           <div className="fade-in-up">
             <p className="text-brand-primary font-semibold text-sm uppercase tracking-widest mb-3">
-              Kadi's Most Trusted Pharmacy
+              Kadi&apos;s Most Trusted Pharmacy
             </p>
             <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-bold text-brand-textDark leading-tight mb-5">
               Your Trusted Chemist in Kadi —{' '}
