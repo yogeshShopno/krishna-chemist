@@ -1,10 +1,10 @@
 import Image from 'next/image';
 
 const STATS = [
-  { value: '21+',     label: 'Years of Service' },
+  { value: '21+', label: 'Years of Service' },
   { value: '1Lac+', label: 'Happy Customers' },
-  { value: '6',       label: 'Services Offered' },
-  { value: '365',     label: 'Days Open' },
+  { value: '6', label: 'Services Offered' },
+  { value: '365', label: 'Days Open' },
 ];
 
 export default function About() {
@@ -22,7 +22,7 @@ export default function About() {
             </h2>
             <div className="space-y-4 text-brand-textMuted leading-relaxed">
               <p>
-           Krishna Chemist has been a cornerstone of healthcare in Kadi for
+                Krishna Chemist has been a cornerstone of healthcare in Kadi for
                 over a decade. Strategically located under Dr. Navin Patel Hospital on Bus
                 Station Road, we serve patients, families, and healthcare professionals with
                 genuine medicines and expert guidance every single day.
@@ -50,10 +50,10 @@ export default function About() {
             <div className="relative">
               <div className="absolute inset-0 bg-brand-primary/10 rounded-full blur-2xl scale-110" />
               <Image
-                src="https://images.unsplash.com/photo-1576602976047-174e57a47881?auto=format&fit=crop&q=80&w=800"
+                src="/shop.jpeg"
                 alt="Pharmacist View"
-                width={280}
-                height={280}
+                width={1000}
+                height={1000}
                 className="relative drop-shadow-xl rounded-3xl object-cover"
               />
             </div>

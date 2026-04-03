@@ -69,8 +69,8 @@ export default function Hero() {
               <Image
                 src="https://images.unsplash.com/photo-1587854692152-cbe660dbde88?auto=format&fit=crop&q=80&w=800"
                 alt="Pharmacy Inside View"
-                width={320}
-                height={320}
+                width={1000}
+                height={1000}
                 priority
                 className="relative drop-shadow-2xl rounded-3xl object-cover"
               />
