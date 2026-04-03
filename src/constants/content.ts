@@ -1,6 +1,6 @@
 export const SHOP = {
-  name:      'Krishna Chemist & retail store',
-  shortName: 'Krishna Chemist',
+  name:      'Krishna Chemist & Retail Store',
+  shortName: 'Krishna Chemist & Retail Store',
   tagline:   'Your Trusted Health Partner, Around the Clock Serving Kadi families for over a decade with genuine medicines, expert advice & fast home delivery. Located under Dr. Navin Patel Hospital.',
   address:   'Under Dr. Navin Patel Hospital, Bus Station Rd, Opp. Patel Bhuvan, Sardar Bagh, Kadi, Gujarat 384440',
   phone:     '+91 90819 77749',

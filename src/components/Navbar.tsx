@@ -19,7 +19,7 @@ export default function Navbar() {
           <span className="font-display font-extrabold text-brand-secondary text-xl leading-tight hidden sm:block group-hover:text-brand-primary transition-colors duration-300 tracking-tight">
               Krishna Chemist
             <span className="block text-[0.7rem] font-body font-bold text-brand-textMuted tracking-[0.15em] uppercase mt-0.5 group-hover:text-brand-primaryLight transition-colors duration-300">
-           &  retail store
+           &  Retail Store
             </span>
           </span>
         </a>

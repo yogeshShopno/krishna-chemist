@@ -71,7 +71,7 @@ export default function Contact() {
               src="https://maps.google.com/maps?q=Kadi+Gujarat+384440&output=embed"
               className="w-full h-full border-0"
               loading="lazy"
-              title="Krishna chemist "
+              title="Krishna chemist & Retail Store "
             />
           </div>
         </div>

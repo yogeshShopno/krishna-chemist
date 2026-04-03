@@ -19,7 +19,7 @@ export default function Footer() {
               <span className="font-display font-bold text-lg leading-tight">
                 Krishna Chemist
                 <span className="block text-xs font-body font-normal text-white/70">
-                  & retail store
+                  & Retail Store
                 </span>
               </span>
             </div>
@@ -62,7 +62,7 @@ export default function Footer() {
       {/* Bottom bar */}
       <div className="border-t border-white/20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-center text-white/60 text-xs">
-          Powered by Krishna Chemist © 2026. All rights reserved.
+          Powered by Krishna Chemist & Retail Store © 2026. All rights reserved.
         </div>
       </div>
     </footer>

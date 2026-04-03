@@ -2,21 +2,21 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: ' Krishna Chemist | Kadi Gujarat',
+  title: ' Krishna Chemist & Retail Store | Kadi Gujarat',
   description:
     'Trusted chemist shop in Kadi, Gujarat. Prescription medicines, home delivery, Ayurvedic products. Open 7 AM to 11:30 PM every day.',
   keywords: [
     'chemist kadi',
     'pharmacy kadi gujarat',
     'medicine home delivery kadi',
-    'krishna chemist',
+    'krishna chemist & Retail Store',
 
   ],
   icons: {
     icon: '/logo.jpeg',
   },
   openGraph: {
-    title: 'Krishna Chemist',
+    title: 'Krishna Chemist & Retail Store',
     description: 'Your trusted health partner in Kadi, Gujarat.',
     type: 'website',
   },

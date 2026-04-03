@@ -18,11 +18,11 @@ export default function About() {
               Our Story
             </p>
             <h2 className="font-display text-3xl md:text-4xl font-bold text-brand-textDark mb-6">
-              About Krishna Chemist & retail store
+              About Krishna Chemist & Retail Store
             </h2>
             <div className="space-y-4 text-brand-textMuted leading-relaxed">
               <p>
-                Krishna Chemist has been a cornerstone of healthcare in Kadi for
+                Krishna Chemist & Retail Store has been a cornerstone of healthcare in Kadi for
                 over a decade. Strategically located under Dr. Navin Patel Hospital on Bus
                 Station Road, we serve patients, families, and healthcare professionals with
                 genuine medicines and expert guidance every single day.
