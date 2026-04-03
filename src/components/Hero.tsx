@@ -22,7 +22,7 @@ export default function Hero() {
             <p className="text-brand-primary font-semibold text-sm uppercase tracking-widest mb-3">
               Kadi&apos;s Most Trusted Pharmacy
             </p>
-            <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-bold text-brand-textDark leading-tight mb-5">
+            <h1 className="font-display text-3xl md:text-4xl lg:text-5xl font-bold text-brand-textDark leading-tight my-5">
               Your Trusted Chemist in Kadi —{' '}
               <span className="text-brand-primary">Open 7 AM to 11:30 PM</span>
             </h1>
