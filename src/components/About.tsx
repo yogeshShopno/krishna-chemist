@@ -50,7 +50,7 @@ export default function About() {
             <div className="relative">
               <div className="absolute inset-0 bg-brand-primary/10 rounded-full blur-2xl scale-110" />
               <Image
-                src="/shop.jpeg"
+                src="/shop.png"
                 alt="Pharmacist View"
                 width={1000}
                 height={1000}
