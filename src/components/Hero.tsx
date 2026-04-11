@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import { Phone, MessageCircle } from 'lucide-react';
 import { SHOP } from '@/constants/content';
 
@@ -66,12 +65,11 @@ export default function Hero() {
           <div className="flex justify-center md:justify-end">
             <div className="relative">
               <div className="absolute inset-0 bg-brand-primary/10 rounded-full blur-3xl scale-110" />
-              <Image
+              <img
                 src="https://images.unsplash.com/photo-1587854692152-cbe660dbde88?auto=format&fit=crop&q=80&w=800"
                 alt="Pharmacy Inside View"
                 width={1000}
                 height={1000}
-                priority
                 className="relative drop-shadow-2xl rounded-3xl object-cover"
               />
             </div>

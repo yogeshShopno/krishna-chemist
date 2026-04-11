@@ -9,7 +9,7 @@ import FAQ             from '@/components/FAQ';
 import Contact         from '@/components/Contact';
 import Footer          from '@/components/Footer';
 
-export default function Home() {
+export default function App() {
   return (
     <>
       <Navbar />

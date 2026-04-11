@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import { NAV_LINKS, SHOP } from '@/constants/content';
 import { AlarmCheck, Phone } from 'lucide-react';
 
@@ -11,10 +10,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <div className=" h-12 w-12">
-
-                <Image src="/logo.jpeg" alt="krishna chemist Logo" width={100} height={100} className="rounded-full object-cover w-full h-full " priority />
-
-              </div>
+                <img src="/logo.jpeg" alt="krishna chemist Logo" width={100} height={100} className="rounded-full object-cover w-full h-full " />              </div>
 
               <span className="font-display font-bold text-lg leading-tight">
                 Krishna Chemist

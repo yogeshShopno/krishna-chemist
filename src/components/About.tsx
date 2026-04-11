@@ -1,4 +1,3 @@
-import Image from 'next/image';
 
 const STATS = [
   { value: '21+', label: 'Years of Service' },
@@ -49,7 +48,7 @@ export default function About() {
           <div className="flex flex-col items-center gap-10">
             <div className="relative">
               <div className="absolute inset-0 bg-brand-primary/10 rounded-full blur-2xl scale-110" />
-              <Image
+              <img
                 src="/shop.png"
                 alt="Pharmacist View"
                 width={1000}

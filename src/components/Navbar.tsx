@@ -1,7 +1,6 @@
 'use client';
 
 import { useState } from 'react';
-import Image from 'next/image';
 import { Menu, X, Phone } from 'lucide-react';
 import { NAV_LINKS, SHOP } from '@/constants/content';
 
@@ -14,7 +13,7 @@ export default function Navbar() {
         {/* Logo + Name */}
         <a href="#home" className="flex items-center gap-3 shrink-0 group">
           <div className="relative w-12 h-12 rounded-full overflow-hidden shadow-[0_0_15px_rgba(0,0,0,0.1)] group-hover:scale-105 group-hover:shadow-[0_0_20px_rgba(59,130,246,0.5)] transition-all duration-300 ring-2 ring-transparent group-hover:ring-blue-100">
-            <Image src="/logo.jpeg" alt="Krishna chemist Logo" width={48} height={48} className="rounded-full object-cover w-full h-full" priority />
+            <img src="/logo.jpeg" alt="Krishna chemist Logo" width={48} height={48} className="rounded-full object-cover w-full h-full" />
           </div>
           <span className="font-display font-extrabold text-brand-secondary text-xl leading-tight hidden sm:block group-hover:text-brand-primary transition-colors duration-300 tracking-tight">
               Krishna Chemist
